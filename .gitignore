@@ -1,0 +1,42 @@
+# Virtual Environment
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Playwright / browser data
+playwright-report/
+test-results/
+
+# Selenium / webdriver logs
+*.log
+geckodriver.log
+
+# Screenshots
+*.png
+*.jpg
+*.jpeg
+
+# PDFs / scraped data
+data/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# Build files
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
